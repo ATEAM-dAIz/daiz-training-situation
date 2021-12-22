@@ -1,1 +1,1 @@
-# deep_learning_practice
+# 상황 모델 학습
